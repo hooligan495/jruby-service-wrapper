@@ -1,0 +1,10 @@
+The tanuki java service wrapper is used to launch Java applications as a "service".  
+It provides capabilities for starting/stopping and monitoring your service.  
+
+This project has some "convenience" methods and classes for using the service wrapper with 
+a jruby application.
+
+Please note... this was literally my first JRuby project in 2008.  I didn't think 
+to make it "public" at the time.  Now at least one other person is trying to do this
+and in an effort to save some pain I thought I could make this public.
+
